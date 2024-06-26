@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1686797467 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\colas.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1686797455 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\colas.h
+
+1687131806 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+	"jugador.h"
+	"titulo.h"
+	"colas.h"
+	"pilas.h"
+
+1686798820 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilas.h"
+
+1686797910 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\pilas.h
+
+1686895924 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+	"jugador.h"
+	"titulo.h"
+	"colas.h"
+	"pilas.h"
+
+1686839425 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\equipo.h
+	"colas.h"
+	"pilas.h"
+	"jugador.h"
+
+1686795330 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\jugador.h
+	"colas.h"
+	"pilas.h"
+
+1686790516 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\titulo.h
+	"pilas.h"
+
+1686798128 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+	"jugador.h"
+	"titulo.h"
+	"colas.h"
+	"pilas.h"
+
+1686797181 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\tp ayed\titulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+	"jugador.h"
+	"titulo.h"
+	"colas.h"
+	"pilas.h"
+
